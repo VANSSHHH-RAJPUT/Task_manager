@@ -11,31 +11,6 @@ A premium task management application with real-time cloud synchronization and a
 This is an internship assignment project demonstrating full-stack mobile development using Flutter and Firebase. The application provides a robust task management system featuring user authentication, real-time Firestore database synchronization, and state management using Provider. A core focus of this project is the UI/UX design, featuring a custom premium black-and-gold glassmorphism theme that seamlessly supports both dark and light modes.
 
 
-## Screenshots
-
-<table align="center">
-  <tr>
-    <th>Home Screen</th>
-    <th>Add Task</th>
-    <th>Profile</th>
-    <th>Light Mode</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="assets/screenshots/home.png" alt="Home Screen" width="180"/>
-    </td>
-    <td align="center">
-      <img src="assets/screenshots/add_task.png" alt="Add Task Screen" width="180"/>
-    </td>
-    <td align="center">
-      <img src="assets/screenshots/profile.png" alt="Profile Screen" width="180"/>
-    </td>
-    <td align="center">
-      <img src="assets/screenshots/light_mode.png" alt="Light Mode Screen" width="180"/>
-    </td>
-  </tr>
-</table>
-
 ## Features
 
 - **Authentication**: Secure user signup, login, and logout using Firebase Authentication, with auth state persistence.
