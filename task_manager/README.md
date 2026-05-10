@@ -115,7 +115,7 @@ service cloud.firestore {
 
 1. Clone the repository:
    ```bash
-   git clone [GITHUB_REPO_LINK]
+   git clone https://github.com/VANSSHHH-RAJPUT/Task_manager.git
    ```
 2. Navigate to the project directory:
    ```bash
