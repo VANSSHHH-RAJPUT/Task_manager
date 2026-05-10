@@ -13,12 +13,28 @@ This is an internship assignment project demonstrating full-stack mobile develop
 
 ## Screenshots
 
-<p align="center">
-  <img src="assets/screenshots/home.png" alt="Home Screen" width="220"/>
-  <img src="assets/screenshots/add_task.png" alt="Add Task" width="220"/>
-  <img src="assets/screenshots/profile.png" alt="Profile Screen" width="220"/>
-  <img src="assets/screenshots/light_mode.png" alt="Light Mode Screen" width="220"/>
-</p>
+<table align="center">
+  <tr>
+    <th>Home Screen</th>
+    <th>Add Task</th>
+    <th>Profile</th>
+    <th>Light Mode</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/home.png" alt="Home Screen" width="180"/>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/add_task.png" alt="Add Task Screen" width="180"/>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/profile.png" alt="Profile Screen" width="180"/>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/light_mode.png" alt="Light Mode Screen" width="180"/>
+    </td>
+  </tr>
+</table>
 
 ## Features
 
